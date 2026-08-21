@@ -1,3 +1,13 @@
 # Sistema-de-controle-de-estoque-para-uma-pequena-distribuidora..
-Grupo do Guilherme feito por:
-Guilherme mlynarczuk, 
+Projeto de Software
+
+[Grupo do Guilherme]
+
+## Integrantes
+
+* [Guilherme mlynarczuk santos]
+* [Nycolas Ribaski]
+
+## Cenário escolhido
+
+**Sistema de controle de estoque para uma pequena distribuidora**
